@@ -1,5 +1,5 @@
 ![IQRG Banner for Research Projects](../IQRG_Banner_Research_Projects_2024.png)
 
-# [Add your Project name here]
+# Simulation of BB84 protocol
 
-[Add an abstract for your project here]
+In this project, we have simulated the BB84 protocol, which was the first quantum key distribution protocol ever designed
